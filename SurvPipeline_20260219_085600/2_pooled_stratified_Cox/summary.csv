@@ -1,0 +1,2 @@
+model,scope,N,events,mean_c,sd_c,mean_auc,sd_auc,mean_brier,sd_brier,med_feat,valid_folds,total_folds
+Pooled Stratified Enet-Cox,ALL,711,256,0.796091888436442,0.033619308312022,0.844342761996957,0.0356051935366959,0.184249300398221,0.0101094207273216,2,24,25
